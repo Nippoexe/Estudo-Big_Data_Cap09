@@ -1,7 +1,5 @@
 # Estatística na Prática 5 - O Que Fazer Quando a Suposição do Teste Estatístico Não é Satisfeita?
 
-# Leia os manuais em pdf no Capítulo 12 do curso.
-
 # Há diferença significativa no crescimento dos dentes de acordo com o tipo de suplemento
 # usado nos Porcos da Guiné?
 
